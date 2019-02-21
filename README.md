@@ -1,1 +1,3 @@
+:
 # DanceKing
+Init
