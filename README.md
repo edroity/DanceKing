@@ -1,1 +1,4 @@
+::
 # DanceKing
+Init
+Test
