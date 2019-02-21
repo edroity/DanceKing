@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/CameraSample/DeviceCameraSample.unity
+    guid: e4f120501ee444fdba24a91ec4daa1b4
+  - enabled: 0
+    path: Assets/Imitate/Imitate.unity
+    guid: 9521b528d675843bdb46070dc3c12e28
+  - enabled: 1
+    path: Assets/HotDog/HotDog.unity
+    guid: 160d78c01f9134bf58a604f43b264217
+  - enabled: 0
+    path: Assets/Smile/Smile.unity
+    guid: e753142687783465cb0e655893d5c000
+  m_configObjects: {}
