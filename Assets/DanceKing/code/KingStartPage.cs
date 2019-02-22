@@ -11,7 +11,7 @@ public class KingStartPage : Page
 
     public void OnGameStart()
     {
-        //UIEngine.Forward<>();
+        UIEngine.Forward<ScanPage>();
     }
 
     public void OnHelp()

@@ -11,10 +11,13 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Imitate/Imitate.unity
     guid: 9521b528d675843bdb46070dc3c12e28
-  - enabled: 1
+  - enabled: 0
     path: Assets/HotDog/HotDog.unity
     guid: 160d78c01f9134bf58a604f43b264217
   - enabled: 0
     path: Assets/Smile/Smile.unity
     guid: e753142687783465cb0e655893d5c000
+  - enabled: 1
+    path: Assets/DanceKing/DanceKing.unity
+    guid: ccd59e3bbef504afead1bd404a3a9da6
   m_configObjects: {}
